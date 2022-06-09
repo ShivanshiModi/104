@@ -1,0 +1,25 @@
+body{
+ background:  pink;
+ color:midnightblue;
+}
+
+ h3{
+     color: rgb(233, 50, 233);
+     width: 60%;
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+    }
+
+    .object{
+        color: plum;
+    }
+    
+    #camera{
+        border: 2px dashed hotpink;
+        width: 350px;
+        height: 300px;
+    }
+    
+    #rno, #rna{
+        color: rgb(249, 66, 164);
+    }
